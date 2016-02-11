@@ -49,7 +49,18 @@ How do the diagrams help you visualize the branch structure?
 
 Reflect: Merging Two Branches
 
-Now that you’ve learned how to use Git to merge branches together, go add the following question and your thoughts on it to your reflections file:
+Now that you’ve learned how to use Git to merge branches together, go
+add the following question and your thoughts on it to your reflections
+file:
 
-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
 
+Reflect: Automatic vs. Manual Merging
+
+Now that you’ve learned when Git will not be able to automatically
+merge branches, and what happens when it can’t, go add the following
+question and your thoughts on it to your reflections file:
+
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
