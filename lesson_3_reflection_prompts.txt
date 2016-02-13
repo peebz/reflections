@@ -27,3 +27,13 @@ following question and your thoughts on it to your reflections file:
 
 What is the benefit of having a copy of the last known state of the
 remote stored locally?
+
+Reflect: Collaboration using Git and GitHub
+
+Now that you've seen how multiple people can share changes to a
+project using GitHub, and review proposed changes using pull requests,
+go add the following question and your thoughts on it to your
+reflections file:
+
+How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
